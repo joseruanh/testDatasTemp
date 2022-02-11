@@ -23,7 +23,7 @@ function av(){
 	var area = document.getElementById("area")
 
 	area.innerHTML = `
-	<h2>Datas dos fóruns:</h2>
+	<h2>Datas das Avaliações Virtuais:</h2>
 	<br><strong>Gestão Educacional</strong>: 07/03 - 14/03
 	<br><strong>Geografia Urbana</strong>: 04/04 - 11/04
 	<br><strong>Regionalização do Espaço Mundial</strong>: 02/05 - 09/05
@@ -37,7 +37,7 @@ function aa(){
 		var area = document.getElementById("area")
 
 	area.innerHTML = `
-	<h2>Datas dos fóruns:</h2>
+	<h2>Datas das Atividades de Aprendizagem:</h2>
 	<br><strong>Gestão Educacional</strong>: 04/06
 	<br><strong>Geografia Urbana</strong>: 04/06
 	<br><strong>Regionalização do Espaço Mundial</strong>: 04/06
@@ -50,7 +50,7 @@ function ad(){
 		var area = document.getElementById("area")
 
 	area.innerHTML = `
-	<h2>Datas dos fóruns:</h2>
+	<h2>Datas das Atividades Diagnósticas:</h2>
 	<br><strong>Gestão Educacional</strong>: 04/06
 	<br><strong>Geografia Urbana</strong>: 04/06
 	<br><strong>Regionalização do Espaço Mundial</strong>: 04/06
@@ -63,7 +63,7 @@ function prova(){
 	var area = document.getElementById("area")
 
 	area.innerHTML = `
-	<h2>Datas dos fóruns:</h2>
+	<h2>Datas das Provas:</h2>
 	<br><strong>Gestão Educacional</strong>: 12/03
 	<br><strong>Geografia Urbana</strong>: 09/04
 	<br><strong>Regionalização do Espaço Mundial</strong>: 07/05
