@@ -1,0 +1,77 @@
+*{margin: 0; padding: 0;}
+
+body {
+	background-color: #DCDCDC;
+	color: white;
+}
+
+header{
+	background-color: #13293D;
+	padding: 20px;
+	font-family: verdana;
+	position: fixed;
+
+	top: 0;
+	left: 0;
+	width: 100%;
+}
+#titulo{
+	margin-left: 35px;
+	padding-top: 5px;
+	border-radius: 50%;
+	cursor: pointer;
+	border: none;
+	background-color: white;
+	padding: 15px;
+	color: #13293D;
+	font-weight: bolder;
+}
+
+
+#tit{
+	font-size: 20px;
+	font-family: verdana;
+}
+#cabeca{
+	margin-right: 20px;
+}
+.botao{
+	padding-bottom: 5px;
+	float: right;
+	color: white;
+	font-family: calibri;
+	font-weight: bolder;
+	margin-right: 10px;
+	width: 100px;
+	padding: 10px;
+	border: none;
+	border-radius: 10px;
+	background-color: #13293D;
+	box-shadow: white 0px 4px 0px 0px;
+	transition: 0.3s;
+	cursor: pointer;
+}
+.botao:hover{
+	background-color: white;
+	color: #13293D;
+	box-shadow: white 0px -1px 5px 0px;
+}
+.botao:active{
+	box-shadow: white 0px -2px 10px 0px;
+	color: white;
+}
+
+#area{
+	text-align: center;	
+	background-color: white;
+	padding: 30px;
+	padding-bottom: 100px;
+	padding-top: 100px;
+	border-radius: 15px;
+	color: #808080;
+	max-width: 600px;
+	margin-top: 150px;
+	margin-left: auto;
+	margin-right: auto;
+	font-family: Calibri;
+}
